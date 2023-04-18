@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
                         color = MaterialTheme.colors.background
                     ) {
                         // prueba
+                        //prueba2
                        // UserList()
                         ChatScreen(Modifier.padding(PaddingValues)/*,messages = messages*/)
                     }
